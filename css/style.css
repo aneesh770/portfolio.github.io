@@ -1152,7 +1152,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     background-repeat: no-repeat;
     background-size: cover;
 }
-#circles-4{
+#circles-5{
     background-image:url(../images/content/progress_5.png);
     border-radius: 100%;
     background-position: center;
